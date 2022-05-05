@@ -57,7 +57,7 @@ require_once "delectvaccine.php";
     <table class="table">
         <thead class="table-dark">
             <th>ชื่อ</th>
-            <th>ผู้ผลิต</th>
+            <th style="width: 120px;">ผู้ผลิต</th>
             <th style="width: 100px;">ประสิทธิภาพ</th>
             <th style="width: 130px;">อายุที่ฉีดได้</th>
             <th>จำนวนโดส</th>
